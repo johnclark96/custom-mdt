@@ -11,4 +11,4 @@
  
 ## References Used
  - Lionh34rt Public Release Scripts for Reference
-    * Check out his [Discord] discord.gg/AWyTUEnGeN
+    * Check out his [Discord] (https://discord.gg/AWyTUEnGeN)
